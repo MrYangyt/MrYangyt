@@ -14,12 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/MrYangyt/MrYangyt">
+<!-- <a href="https://github.com/MrYangyt/MrYangyt">
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=MrYangyt&count_private=true&show_icons=true&theme=aura" />
-</a>
-<a href="https://github.com/MrYangyt/MrYangyt">
+</a>-->
+<!-- <a href="https://github.com/MrYangyt/MrYangyt">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrYangyt&layout=aura)](https://github.com/anuraghazra/github-readme-stats)" />
+</a>-->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=MrYangyt&count_private=true&show_icons=true&theme=buefy" />
 </a>
+<!-- <a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="absbottom" src="https://github-readme-stats.vercel.app//api/top-langs/?username=MrYangyt&theme=buefy" />
+</a>-->
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=MrYangyt.readme)
