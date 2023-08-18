@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - :smile:  e-mail : [MrYangyt](MrYangYtao@163.com)
 - :blowfish:  哔哩哔哩 : [待定](https://space.bilibili.com)
-- :bath: 微信公众号 : [待定](https://mp.weixin.qq.com)
+- :bath: 微信公众号 : [一条咸鱼崽](https://mp.weixin.qq.com)
 
 ### 正在进行的开源项目
 
